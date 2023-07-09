@@ -1,3 +1,13 @@
 body {
     background-color: lightblue;
+    font-family: Arial, Verdana, 'Times New Roman';
+}
+
+li {
+    background-color: lightsalmon;
+}
+
+img {
+    width: 500px;
+    height: auto;
 }
