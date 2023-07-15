@@ -4,10 +4,31 @@ body {
 }
 
 li {
-    background-color: lightsalmon;
+    
 }
 
 img {
     width: 500px;
     height: auto;
+}
+
+.card {
+    background: white;
+    width: 500px;
+    height: auto;
+}
+
+#recipe1 {
+    margin: 20px 0px;
+    padding: 10px 0px;
+
+}
+#recipe2 {
+    margin: 20px 0px;
+    padding: 10px 0px;
+}
+
+#recipe3 {
+    margin: 20px 0px;
+    padding: 10px 0px;
 }
